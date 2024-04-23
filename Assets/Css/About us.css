@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.img-width{
+    background-size: cover;
+     width: 97vw;
+     height: auto;   
+}
+.abt-logo{
+    width: 478px;
+    height: 317px;
+     /* margin-right: 40px;  */
+    padding-right: 70px; 
+
+} 
+#abt{
+    /* margin-top: -50px; */
+}
+.rppl{
+    margin-top: 20px;
+    font-size:30px ;
+    font-family:sans-serif;
+    font-weight: 700;
+}
+.matter{
+    font-size: 15px;
+    font-family: sans-serif;
+    line-height: 1.8;
+    margin: 0px 0px 10px;
+    
+}
+.card-text{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.card-title{
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.textcard:hover{
+background-color:black;
+}
+.card-img-top{
+    width: 26vw;
+    padding-left: 19px;
+    padding-top: 15px;
+    
+}
+.img-sizes{
+    width:60% ;
+}
+.card width{
+    /* width: 80vw; */
+}
+#about1{
+    
+   width:45vw;
+   height:456px;
+   background-size: cover;
+   /* margin-left: 50px; */
+
+}
+#abot1{
+     width:vw;
+    height:456px; 
+    background-size: cover;
+     /* margin-eft: 50px; */
+ } 
+    
+
+#bg-colour{
+    background-color: brown;
+    margin-top: 60px;
+    
+}
+#bg-colourr{
+    margin-top: 45px;
+    background-color: brown;
+    margin-left: -10px
+}
+#abt-2{
+    width: 45vw;
+    height:456px;
+    background-size: cover;
+    /* margin-left: 50px; */
+}
+ #abt-3{
+    width: 42.7vw;
+    height: 456px;
+    background-size: cover;
+    /* margin-left: -80px; */
+} 
+/* #name{
+    width:10vw ;
+    padding-left: 7px;
+
+    
+}
+#center{
+     padding-left: 7px;
+    width: 10vw;
+   border-style: none;
+   background-color: dimgray;
+   
+ #mobile{
+    width: 10px;
+    padding-left: 7px;
+    margin-left:-50px;
+   
+ }
+#email{
+    padding-left: 7px;
+    margin-left: -40px;
+    width: 10px;
+    border-style: none;
+    
+}
+#message{
+    margin-left: 20px;
+    width:4px ;
+} */
+
+  #button-width{
+    width: 150px;
+    height: 40px;
+    padding-left: 5px;
+  }  
+
+.texting{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+#black-colour{
+    width: 21px;
+}
+#icon{
+    display: block;
+
+}
+.vector{
+    margin-left: -10px;
+}
+
+
+
+
+
+
+
+ @media screen and (min-width:426px) and (max-width:769px){
+    #icons{
+        margin-left: 130px;
+    }
+    .thumbs{
+        margin-left: 220px;
+       
+    }
+    .vector{
+        margin-left: 220px;
+    }
+   #bg-colour{
+        margin-top: 10px;
+         width:22vw; 
+    }
+        
+    #bg-colourr{
+         width: 14vw; 
+        margin-left: 10px;
+        margin-top: 5px;
+        
+    }
+    #vis{
+        margin-left: 30px;
+    }
+    #button-width{
+        width: 100px;
+        padding-left: 3px;
+    }
+    
+        
+    }
+
+
+@media screen and (max-width:426px){
+    #button-width{
+        width: 380px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .rppl{
+        text-align: center;
+    }
+    #abt{
+        margin-top: -10px;
+    }
+    #icons{
+        margin-left: 55px;
+        margin-top: 20px;
+    }
+    .thumbs{
+        margin-left: 55px;
+    }
+    .vector{
+        margin-left: 55px;
+    }
+    #about1{
+        width: 400px;
+        margin-left: -15px;
+    }
+    #abot1{
+        margin-top: 30px;
+    }
+    #bg-colour{
+        margin-top: 3px;
+    }
+    #abt-2{
+        margin-top: 20px;
+        width: 400px;
+        margin-left: -13px;
+    }
+    #abt-3{
+        margin-top: 20px;
+        width: 400px;
+        margin-left: -13px;
+    
+
+    }
+}
+
+
+.cards0{
+    background-color: red;
+}
+
+
+.cards0:hover{
+    background-color: black;
+}

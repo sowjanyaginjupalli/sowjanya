@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.rock{
+    background-color: red;
+}
+
+
+.margin-side{
+
+    margin-left:400px;
+}
+#flex-header{
+    display: flex;
+}
+
+#facebook:hover{
+    background-color: blue;
+}
+#twitter:hover{
+    background-color: black;
+}
+#linkden:hover{
+    background-color:rgba(56, 56, 141, 0.5);
+}
+#youtube:hover{
+    background-color:red;
+}
+#insta:hover{
+    background-color: rgb(150, 33, 33);
+}
+#pintrest:hover{
+    background-color:rgb(212, 88, 88) ;
+}
+#telegram:hover{
+    background-color:rgb(19, 19, 228);
+}
+#mail:hover{
+    background-color:rgb(112, 87, 87);
+}
+#watsup:hover{
+    background-color:green;
+}
+
+@media screen  and (min-width:768px) and (max-width:1025px)  {
+
+    #bg-last{
+        width: 1024px;
+    }
+    .margin-side{
+        margin-left:200px;
+    }
+   
+}
+
+@media screen  and (min-width:426px) and (max-width:768px)  {
+
+    #bg-last{
+        width: 768px;
+    }
+    .margin-side{
+        margin-left:10px;
+    }
+    
+}
+
+@media screen and (max-width:426px){
+   
+    .margin-side{
+        margin-left: 600px;
+    }
+    #bg-last{
+        display: none;
+    }
+     
+    
+}
+
+#nav-links{
+    font-weight:bold;
+}
+
+#hover-color:hover{
+    color: white;
+}

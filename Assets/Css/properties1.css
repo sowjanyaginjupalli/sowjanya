@@ -1,0 +1,488 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+#sai1{
+margin-left: -20px;
+border-radius: 0px;
+padding: 5px;
+font-weight: 14px;
+font-family: roboto sans-serif;
+
+
+}
+button:hover{
+   color: red;
+}
+#sai2>ul>li:hover{
+    color:red;
+}
+#sai3:hover{
+    color: red;
+}
+#sai3{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+#sai4{
+    margin-top: -10px;
+    margin-left: 40px;
+   
+}
+#sai4>button{
+     border-radius: 0px; 
+     
+}
+#sai4>button:hover{
+    background-color: red;
+}
+#sai5{
+    background-image: url("/Assets/Uploads/Images/brown\ background.webp");
+    height: 25vh;
+    width:765px;
+    margin-top:10px;
+    margin-left: 10px;
+}
+#sai5>img{
+    width:150px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+#sai6{
+    margin-top: 160px;
+    margin-left: -180px;
+}
+ #sai7{
+   
+margin-left: 10px;
+margin-top: 10px;
+} 
+
+
+#sky8>button{
+    background-color: red;
+    color: white;
+    margin-top: -10px;
+    border-radius: 0px;
+    
+}
+#sai8{/*2nd image */
+    background-image: url("/Assets/Uploads/Images/black\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai8>img{
+    width:170px;
+    margin-left: 280px;
+    margin-top: 40px;
+}
+#sai9{
+    /* margin-left: 18px;
+     margin-top: 10px;
+     width: 700px; */
+ margin-left: 10px;
+ margin-top: 10px;
+ }
+ #sai10{
+    margin-top: 160px;
+     margin-left: -170px;
+} 
+/*3rd image*/
+#sai11{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai11>img{
+    width:170px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+#sai12{
+    /* margin-left: 18px;
+     margin-top: 10px;
+     width: 700px; */
+ margin-left: 10px;
+ margin-top: 10px;
+ }
+ #sai13{
+    margin-top: 160px;
+     margin-left: -170px;
+} 
+/*4th image*/
+#sai14{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai14>img{
+    width:130px;
+    margin-left: 290px;
+    margin-top: 30px;
+}
+#sai15{
+    /* margin-left: 18px;
+     margin-top: 10px;
+     width: 700px; */
+ margin-left: 10px;
+ margin-top: 10px;
+ }
+ #sai16{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+/*5th image*/
+#sai17{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai17>img{
+    width:150px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#sai18{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai19{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+ /*6th image*/
+ #sai20{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai20>img{
+    width:190px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#sai21{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai22{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+ /*7th img*/
+ #sai23{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai23>img{
+    width:200px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#sai24{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai25{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+ /*8th img*/
+ #sai26{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai26>img{
+    width:200px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#sai27{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai28{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+ /*9th image */
+
+ #sai29{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai29>img{
+    width:200px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#sai30{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai31{
+    margin-top: 165px;
+     margin-left: -180px;
+ }
+/*10th img */
+#sai32{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai32>img{
+    width:240px;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+#sai33{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai34{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+ /*11 th img*/
+ #sai35{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai35>img{
+    width:240px;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+#sai36{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai37{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+/*12th img */
+#sai38{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai38>img{
+    width:240px;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+#sai39{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai40{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+ /*13th img */
+ #sai41{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai41>img{
+    width:240px;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+#sai42{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai43{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+/*14th img */
+#sai44{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai44>img{
+    width:300px;
+    margin-left: 240px;
+    margin-top: 40px;
+}
+#sai45{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai46{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+/* 15th img */
+#sai47{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai47>img{
+    width:300px;
+    margin-left: 225px;
+    margin-top: 30px;
+}
+#sai48{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai49{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+ /* 16th img */
+ #sai50{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai50>img{
+    width:230px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+#sai51{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai52{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+/* 17th img */
+#sai53{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai53>img{
+    width:230px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+#sai54{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai55{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+/* 18th img */
+#sai56{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai56>img{
+    width:230px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+#sai57{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai58{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+ /* 19th img */
+#sai59{
+    background-image: url("/Assets/Uploads/Images/white\ background.jpg");
+    height: 25vh;
+    width:770px;
+    margin-top:10px;
+    margin-left: 5px;
+}
+#sai59>img{
+    width:250px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+#sai60{
+   
+ margin-left: 10px;
+ margin-top: -10px;
+ }
+ #sai61{
+    margin-top: 175px;
+     margin-left: -180px;
+ }
+
+/*Media Queries */
+@media screen and(max-width:1025px)and (min-width:769px){
+    #sai5{
+        background-image: url("/Assets/Uploads/Images/brown\ background.webp");
+        height: 25vh;
+        width:500px;
+        margin-top:10px;
+        margin-left: 10px;
+    }
+
+#sai7{
+    width:1000px;
+}
+
+}

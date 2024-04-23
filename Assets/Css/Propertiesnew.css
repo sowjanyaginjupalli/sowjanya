@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.sai1{
+    margin-left: 100px;
+}
+button:hover{
+    color: red;
+ }
+ #sai2>ul>li:hover{
+     color:red;
+ }
+ .sai5>h6:hover{
+color: red;
+ }
+ .sai6>button:hover{
+     background-color: red; 
+ }
+ .sai5{
+    margin-top: 40px;
+    margin-left: 30px;
+ }
+ .sai6{
+    margin-left: 30px;
+ }
+ 
+    
+ 

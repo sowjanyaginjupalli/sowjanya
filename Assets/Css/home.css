@@ -1,0 +1,407 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+.rock-padding{
+    padding-top: 80px;
+    
+
+}
+
+.logo-size{
+
+height: 50px;
+
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+}
+.para{
+    font-size: 18px;
+    
+}
+
+.padding-inside{
+    padding-right: 100px;
+    padding-left: 10px;
+    
+}
+
+@media screen and (max-width:426px) {
+
+.para{
+    font-size: 13
+    
+    px;
+}
+
+
+.vcrh{
+    width: 3000px;
+}
+
+
+#button-rcn{
+    width:370px;
+    margin-top: 30px;
+    
+}
+
+    #button-wdth{
+        width: 380px;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+
+.last-hds{
+    width: 360px;
+    
+}
+
+
+
+    .large-para{
+        padding: 15px;
+    }
+     
+    #rank{
+        margin-left: 180px;
+    }
+
+    .space1200{
+        margin-left: 120px;
+    }
+
+    #rcnk{
+        margin-left: 190px;
+    }
+    #uknm{
+        margin-left: 150px;
+    }
+
+    .size-headss{
+        margin-left: 140px;
+    }
+
+    .thumsup{
+        margin-left: 130px;
+    }
+
+    #red-card{
+        margin:30px;
+    }
+
+   #image-ott{
+    height: 100px;
+    width: 200px;
+   }
+
+   #size-ott{
+    font-size: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+   }
+       
+
+    #img-wid{
+        padding-right: 30px;
+    
+   }
+
+
+
+   .logo-size{
+    height:35px;
+    margin-left: -30px;
+   }
+   .padding-inside{
+    padding-left:15px;
+    padding-right: 20px;
+   }
+
+
+  #wide{
+    margin-top: -50px;
+    margin-bottom: -50px;
+  }
+}
+
+@media screen and (min-width:426px) and (max-width:769px) {
+
+
+ .para{
+    font-size: 13px;
+ } 
+  
+.last-hds{
+    width: 700px;
+    font-size: 100px;
+
+}
+
+ #button-wdth{
+    width: 100px;
+ }
+
+
+    #uknm{
+        margin-left: 270px;
+    }
+
+
+
+
+    #rcnk{
+        margin-left: 310px;
+    }
+
+
+
+
+    #rank{
+        margin-left: 300px;
+    }
+.space1200{
+    margin-left: 250px;
+}
+
+
+    .thumsup{
+
+        margin-left: 250px;
+    }
+
+    .size-headss{
+        margin-left: 250px;
+    }
+
+   
+    #md-textsss{
+        margin-top: 30px;
+    }
+     
+    #ott-ime{
+       padding-right: 30px;
+    }
+
+
+
+
+    #image-ott{
+        height: 200px;
+        width: 300px;
+       }
+    
+       #size-ott{
+        font-size: 20px;
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+       }
+          
+
+
+
+    #wide{
+        margin-top: -50px;
+        margin-bottom: -50px;
+      }
+
+      .logo-size{
+        height:90px;
+        margin-left: -30px;
+        
+       }
+
+      #card-sizes{
+        width: 80vw;
+      }
+     
+}
+
+@media screen and (min-width:769px) and (max-width:1025px){
+
+    #button-wdth{
+        width: 140px;
+    }
+
+.para{
+    font-size: 16px;
+}
+
+
+#md-textsss{
+    margin-top: 30px;
+}
+
+    #image-ott{
+        height:250px;
+        width: 400px;
+       }
+    
+       #size-ott{
+        font-size: 30px;
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+       }
+
+    #padding-top{
+        margin-bottom: 25px;
+    }
+
+   .ott-image{
+    width: 10px;
+   }
+   #footer-width{
+    width: 900px;
+    margin-left: 20px;
+   }
+   /* #looking{
+    margin-left: -10px;
+    width: 1000px;
+   } */
+
+}
+
+
+
+
+
+
+
+
+.background-color{
+    background-color:rgb(241, 239, 239);
+
+}
+
+
+.second-card{
+    margin-top: 70px;
+}
+
+.second-head{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#img-wid{
+    width: 95vw;
+    height: 80vh;
+    padding-left: 30px;
+}
+
+
+
+.ott-image{
+width:600px;
+height: 300px;
+}
+
+.ott-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#ottcard-size{
+    width: 27vw;
+    padding-top: 20px;
+    height: 59vh;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+#ott-ime{
+    width: 120px;
+    height: 120px;
+   margin-left: 10px;
+}
+
+.heades{
+    color: white;
+    font-size: 20px;
+}
+.card-texts{
+    font-size: 15px;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+.card01{
+background: red;
+}
+.card01:hover{
+    background: black;
+    color:white;
+}
+
+
+.thumsup{
+    width: 150px;
+    margin-top: 30px;
+}
+
+.size-headss{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.size-headsss{
+    font-size: 20px;
+    
+}
+
+.space1200{
+   
+    font-size: 20px;
+}
+
+.space12000{
+    font-size: 20px;
+    margin-left: 30px;
+    
+}
+
+.size{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+
+.sizes{
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 35px;
+}
+.last-hds{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.bg-last-color{
+    background-color: rgb(241, 237, 237);
+}
+
+.margin-liftss {
+    margin-left: 50px;
+}
+
+
+.grbd-kh{
+    width: 150px;
+}

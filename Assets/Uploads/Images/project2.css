@@ -1,0 +1,401 @@
+#v1{
+    width: 800px;
+    height: 400px;
+    
+}
+
+#v2{
+    width: 430px;
+    height: 200px;
+    
+}
+#v3{
+    height: 300px;
+}
+/* #v4{
+    margin-bottom: -900px;
+    width: 850px;
+} */
+
+.flex{
+    display: flex;
+}
+.flex2{
+    display: flex;
+}
+.flex3{
+    display: flex;
+}
+.flex3{
+    display: flex;
+}
+#vmap1{
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.vall{
+    padding-left: 70px;
+    padding-top: 40PX;
+    
+
+    
+}
+.vall1{
+    padding-left: 70px;
+    padding-top: 40PX;
+
+}
+.vv2{
+    padding-top: 40px;
+}
+#v3{
+    width: 100px;
+    height: 250px;
+    
+
+}
+.vv1{
+    color: red;
+}
+.vc1{
+    color: red;
+    margin-top: 0px;
+    padding-left: 0px;
+    
+}
+.vc2{
+    padding-left: 0px;
+    padding-top: 15px;
+    
+}
+.vc3{
+    padding-left: -30px;
+}
+.vv7{
+    color: red;
+    padding-left: 0px;
+}
+.vv8{
+    padding-top: 30px;
+    padding-left: 0px;
+
+}
+.vv9{
+    padding-left: 0px;
+    color: red;
+
+}
+#vform{
+    width: 200px;
+    margin-left: -60px;
+}
+#vform2{
+    width: 80px;
+    margin-left: -60px;
+
+}
+#vphone{
+    width: 300px;
+}
+#vform3{
+    margin-left: -60px;
+    width: 380px;
+}
+#vcheck{
+    margin-left: -60px;
+}
+.vp{
+    width: 320px;
+    font-size:x-small;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+#vbutton{
+    width: 310px;
+    height: 40px;
+    margin-left: -40px;
+    
+}
+.v66{
+    display: flex;
+}
+.vlast{
+    width: 300px;
+}
+#v8{
+    width: 400px;
+}
+#v9{
+    display: flex;
+}
+#v10{
+    width: 850px;
+    margin-bottom: 100px;
+    margin-left: 25px;
+
+}
+#vm{
+    height: 300px;
+}
+#vvp{
+    width: 810px;
+    height: 400px;
+}
+#vvp1{
+    width: 800px;
+    height: 400px;
+}
+.vv24{
+    color: red;
+}
+.vv28{
+    color: red;
+}
+.vv12{
+    color: red;
+}
+.vv15{
+    color: red;
+}
+.vv18{
+    color: red;
+}
+.vv21{
+    color: red;
+}
+@media screen and (min-width:769px) and (max-width:1025px){
+    #v1{
+        width: 590px;
+    }
+    #v2{
+        width: 350px;   
+    }
+    .vv4{
+        width: 300px;
+        padding-left: -40px;
+    }
+    .vv6{
+        width: 300px;
+    }
+    #vvp{
+        width: 600px;
+    }
+    .vv1{
+        padding-left: 60px;
+
+    }
+    .vv2{
+        padding-left: 60px;
+    }
+    .vv3{
+        width: 250px;
+        padding-left: 60px;
+    }
+    .vv4{
+        padding-left: 60px;
+    }
+    .vv5{
+        padding-left: 60px;
+    }
+    .vv6{
+        padding-left: 60px;
+    }
+    .vv9{
+        padding-left: 60px;
+    }
+    .vv10{
+        padding-left: 60px;
+    }
+    .vv11{
+        padding-left: 60px;
+    }
+    .vv12{
+        padding-left: 60px;
+
+    }
+    .vv13{
+        padding-left: 60px;
+    }
+    .vv14{
+        padding-left: 60px;
+    }
+    .vv15{
+        padding-left: 60px;
+    }
+    .vv16{
+        padding-left: 60px;
+    }
+    .vv17{
+        padding-left: 60px;
+    }
+    .vv18{
+        padding-left: 60px;
+    }
+    .vv19{
+        padding-left: 60px;
+    }
+    .vv20{
+        padding-left: 60px;
+    }
+    .vv21{
+        padding-left: 60px;
+    }
+    .vv22{
+        padding-left: 60px;
+    }
+    .vv23{
+        padding-left: 60px;
+    }
+    .vv24{
+        padding-left: 60px;
+    }
+    .vv25{
+        padding-left: 60px;
+    }
+    .vv26{
+        padding-left: 60px;
+    }
+}
+
+@media screen and (max-width:427px) {
+   
+
+  
+   
+   .flex{
+    display: inline;
+   }
+   .flex2{
+    display: inline;
+   }
+   #v9{
+    display: inline;
+   }
+   #v1{
+    width: 380px;
+   }
+   #vvp{
+    width: 390px;
+   }
+   #v2{
+    width: 370px;
+    height: 300px;
+   }
+ 
+  .vv4{
+    color: red;
+    
+  }
+  #v8{
+    width: 380px;
+  }
+  #vphone{
+    width: 200px;
+  }
+  #vform3{
+    width: 300px;
+  }
+  .vall1>p{
+    margin-bottom: 250px;
+  }
+} 
+@media screen and (min-width:427px) and (max-width:768px){
+   .flex{
+        display: inline;
+    }
+    .flex2{
+        display: inline;
+    }
+    #v9{
+        display: inline;
+    }
+    #v1{
+        width: 730px;
+    }
+    #vvp{
+        width: 730px;
+    }
+    .vv4{
+        padding-left: 50px;
+    }
+    .vv2{
+        padding-left: 40px;
+    }
+    .vv3{
+        padding-left: 40px;
+    }
+    .vv4{
+        padding-left: 40px;
+    }
+    .vv5{
+        padding-left: 40px;
+    }
+    .vv6{
+        padding-left: 40px;
+    }
+    .vv9{
+        padding-left: 40px;
+    }
+    .vv10{
+        padding-left: 40px;
+    }
+    .vv11{
+        padding-left: 40px;
+    }
+    .vv12{
+        padding-left: 40px;
+    }
+    .vv13{
+        padding-left: 40px;
+    }
+    .vv14{
+        padding-left: 40px;
+    }
+    .vv15{
+        padding-left: 40px;
+    }
+    .vv16{
+        padding-left: 40px;
+    }
+    .vv17{
+        padding-left: 40px;
+    }
+    .vv18{
+        padding-left: 40px;
+    }
+    .vv19{
+        padding-left: 40px;
+    }
+    .vv20{
+        padding-left: 40px;
+    }
+    .vv21{
+        padding-left: 40px;
+    }
+    .vv22{
+        padding-left: 40px;
+    }
+    .vv23{
+        padding-left: 40px;
+    }
+    .vv24{
+        padding-left: 40px;
+    }
+    .vv25{
+        padding-left: 40px;
+    }
+    .vv26{
+        padding-left: 40px;
+    }
+    #v2{
+        width: 700px;
+    }
+    #v8{
+        width: 700px;
+    }
+}    
+
+
+    

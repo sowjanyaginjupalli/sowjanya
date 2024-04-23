@@ -1,0 +1,111 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+#media1{
+position:relative;
+/* overflow: hidden;  */
+display: inline-block;
+}
+#media1{
+    width:300px;
+    transition: tansfrom 0.3s ease;
+    transform-origin: center;
+}
+                 .media6{
+                 
+                    margin-top: 30px;
+                }
+                 
+                .media8{
+                    padding: 20px;
+                    margin-left: 30px;
+                    
+                   
+                  }
+                  .media9>button{
+                   padding-left:40px;
+                   padding-right: 40px;
+                   background-color: black;
+                   color:azure;
+                   padding-top: 10px;
+                   padding-bottom: 5px;
+                 
+                   
+                  
+                  }
+                  .media9>label>input{
+                    background-color:rgba(169, 169, 169, 0.663);;
+                   
+                  }
+
+                   /* views /*/
+                   /* laptop  */
+
+                  @media screen and ( min-width:769px)  and (max-width:1025px){
+                    iframe{
+                        width: 180px;
+                        
+                    }
+                    
+                   
+                  }
+                  /* /Tab view / */
+                  @media screen and ( min-width:426px)  and (max-width:769px){
+                    iframe{
+                        width: 145px;
+                    }
+                    .media6{
+                        margin-left: 280px;
+                      }
+             
+                  }
+                        
+                        /* / mobile / */
+                         @media screen and ( max-width:426px){
+                            
+                           
+                            .media4{
+                               
+                                margin-left: 450px;
+                            }
+                           
+                            .media6{
+                              margin-left: 120px;
+                            }
+                           
+                           
+
+                            #media1>img{
+                                height: 400px;
+                                width: 400px;
+                            }
+                            iframe{
+                                width: 400px;
+                            }
+                               
+                            } 
+                        
+                    
+
+
+
+    
+    
+    
+       
+        
+        
+           
+            
+
+                
+                            
+                        
+                    

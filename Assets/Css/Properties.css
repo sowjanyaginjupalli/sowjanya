@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+#sky1{
+    width: 1250px;
+    height:200px;
+    margin-left:-10px;
+
+}
+#sky2{
+    margin-top: 50px;
+    margin-left: -10px;
+    font-weight: 14px;
+    font-family: roboto,sans-serif;
+}
+#sky2:hover ,li:hover{
+    color:red;
+}
+#sky3>button{
+    border-radius:0px;
+    margin-right: 5px;
+
+}
+#sky4>h6:hover{
+    color: red;
+    
+}
+ #sky3>button:hover{
+    background-color: red;
+}
+#sky3{
+    margin-top: -25px;
+    margin-left: 12px;
+}
+#sky5{
+    background-image: url("/Assets/Uploads/Images/brown\ background.webp");
+    height: 25vh;
+    width:800px;
+    margin-top:-220px;
+    margin-left: 310px;
+}
+#sky5>img{
+    width:160px;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+#sky3{
+    display: flex;
+    margin-right: 10px;
+    border-radius: 0px;
+}
+#sky6{
+    width: 360px;
+    height: 190px;
+    margin-left: 300px;
+    margin-top: -120px;
+}
+#sky7{
+    margin-top: -110px;
+}
+#sky8>button{
+    border-radius:0px;
+}
+/*media queries */

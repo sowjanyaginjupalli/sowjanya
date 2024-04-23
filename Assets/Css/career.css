@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+#career{
+    background-size: cover;
+    
+}
+
+@media screen and (min-width:426px) and (max-width:769px){
+    #logocareer{
+        width:600px ;
+    }
+    #footer-width{
+        width:600px;
+        margin-left: 85px;
+    }
+    flex-header{
+        width: 10px;
+    }
+   
+    } 
+@media screen and (max-width:426px) {
+     #logocareer{
+        width:350px ;
+    }
+   
+} 
